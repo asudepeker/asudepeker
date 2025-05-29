@@ -1,9 +1,9 @@
-# Hi there, I'm Asude 👩🏻‍💻
+# Hi there, I'm Asude 👋
 
-🔭 I’m currently a computer engineering student at Istinye University<br><br>👯 I’m looking for an internship<br><br>🌱 Currently learning computer networks and embedded systems
+👩🏻‍💻 I’m currently a computer engineering student at Istinye University<br><br>👯 I’m looking for an internship<br><br>🌱 Currently learning computer networks and embedded systems
 
 
-## Connect with me:
+## 📫Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asudehazalpeker/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asudehazalpeker@gmail.com) 
 
 ## 💻Languages and Tools:
