@@ -1,6 +1,6 @@
 # Hi there, I'm Asude 👋
 
-🔭 I’m currently a computer engineering student at Istinye University.<br><br>👯 I’m looking for an internship<br><br>🌱 I’m currently learning computer networks and embedded systems
+🔭 I’m currently a computer engineering student at Istinye University<br><br>👯 I’m looking for an internship<br><br>🌱 Currently learning computer networks and embedded systems
 
 
 ## Connect with me:
